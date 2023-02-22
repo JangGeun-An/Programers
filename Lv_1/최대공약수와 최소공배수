@@ -1,4 +1,4 @@
-public class 최대공약수와_최소공배수 {
+public class 최대공약수와_최소공배수  {
     public int[] solution(int n, int m) {
         int gcd1 = gcd(n,m);
         int[] answer = new int[]{gcd1, n*m/gcd1};
