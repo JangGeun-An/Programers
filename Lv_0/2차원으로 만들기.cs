@@ -1,6 +1,6 @@
 using System;
 
-public class 2차원으로_만들기 {
+public class 2차원으로_만들기  {
     public int[,] solution(int[] num_list, int n) {
         int[,] answer = new int[num_list.Length / n,n];
         int l = 0;
