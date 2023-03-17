@@ -1,6 +1,6 @@
 using System;
 
-public class 369게임 {
+public class a369게임 {
     public int solution(int order) {
         string s = order.ToString();
         int answer = 0;
