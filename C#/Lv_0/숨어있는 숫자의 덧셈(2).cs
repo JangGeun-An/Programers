@@ -1,7 +1,7 @@
 using System;
 using System.Text.RegularExpressions;
 
-public class 숨어있는_숫자의_덧셈(2) {
+public class 숨어있는_숫자의_덧셈2 {
     public int solution(string my_string) {
         int answer = 0;
         string[] str = Regex.Replace(my_string, @"\D", " ").Split(' ');

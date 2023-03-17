@@ -1,6 +1,6 @@
 using System;
 
-public class 피자_나눠_먹기(2) {
+public class 피자_나눠_먹기2 {
     public int solution(int n) {
         int lcm = 0;
         for(int i=n*6; i>=1; i--)

@@ -1,7 +1,7 @@
 using System;
 using System.Text.RegularExpressions;
 
-public class 문자열_정렬하기(1) {
+public class 문자열_정렬하기1 {
     public int[] solution(string my_string) {
         string num = Regex.Replace(my_string, @"\D", "");
         int[] answer = new int[num.Length];

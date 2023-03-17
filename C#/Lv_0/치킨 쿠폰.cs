@@ -1,6 +1,6 @@
 using System;
 
-public class 치킨 쿠폰 {
+public class 치킨_쿠폰 {
     public int solution(int chicken) {
         int answer = 0;
         while(chicken > 9)

@@ -1,6 +1,6 @@
 using System;
 
-public class 옹알이(2) {
+public class 옹알이2 {
     public int solution(string[] babbling) {
         int answer = 0;
         for(int i=0; i<babbling.Length; i++)

@@ -1,6 +1,6 @@
 using System;
 
-public class 모스부호(1) {
+public class 모스부호1 {
     public string solution(string letter) {
         string answer = "";
         string[] s = new string[]{".-","-...","-.-.","-..",".","..-.","--.",

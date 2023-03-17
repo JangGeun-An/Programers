@@ -1,6 +1,6 @@
 using System;
 
-public class 최댓값_만들기(2) {
+public class 최댓값_만들기2 {
     public int solution(int[] numbers) {
         int k = numbers.Length;
         Array.Sort(numbers);

@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-public class 명예의_전당(1) {
+public class 명예의_전당1 {
     public int[] solution(int k, int[] score) {
         List<int> sol = new List<int>();
         List<int> answer = new List<int>();

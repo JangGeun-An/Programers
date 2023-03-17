@@ -1,7 +1,7 @@
 using System;
 using System.Linq;
 
-public class 삼각형의_완성조건(2) {
+public class 삼각형의_완성조건2 {
     public int solution(int[] sides) {
         int answer = 0;
         int max = sides.Max();

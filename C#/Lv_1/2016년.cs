@@ -1,6 +1,6 @@
 using System;
 
-public class 2016년 {
+public class a2016년 {
     public string solution(int a, int b) {
         string answer = "";
         int month = 1;

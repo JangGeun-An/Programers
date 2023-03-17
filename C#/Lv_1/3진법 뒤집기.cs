@@ -1,6 +1,6 @@
 using System;
 
-public class 3진법_뒤집기 {
+public class 삼진법_뒤집기 {
     public int solution(int n) {
         int answer = 0;
         while(n>0)

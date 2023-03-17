@@ -1,6 +1,6 @@
 using System;
 
-public class 피자_나눠_먹기(3) {
+public class 피자_나눠_먹기3 {
     public int solution(int slice, int n) {
         int answer = 0;
         if((n%slice) == 0)
