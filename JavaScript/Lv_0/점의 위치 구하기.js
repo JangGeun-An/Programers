@@ -13,7 +13,7 @@ function solution(dot) {
     return answer;
 }
 
-// 더 간단한 방법
+// 더 간단한
 // function solution(dot) {
 //     return dot[0] > 0 ? dot[1] > 0 ? 1 : 4 : dot[1] > 0 ? 2 : 3;
-//
+// }
