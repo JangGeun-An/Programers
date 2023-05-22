@@ -1,0 +1,9 @@
+using System;
+
+public class Solution {
+    public int[] solution(int start, int end) {
+        int[] answer = new int[start-end+1];
+        for(int i=start, j=0; i>=end; i--, j++) answer[j] = i;
+        return answer;
+    }
+}
