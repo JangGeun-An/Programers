@@ -16,7 +16,7 @@ public class Solution {
     }
 }
 
-// 숫자로 변환시켜 0제거, 더 간단함
+// 숫자로 변환시켜 0제거, 더 간단함!
 // public class Solution {
 //     public string solution(string n_str) {
 //         return Int32.Parse(n_str).ToString();
