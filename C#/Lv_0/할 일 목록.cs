@@ -10,7 +10,7 @@ public class Solution {
     }
 }
 
-// Linq를 활용한 간단한 방법
+// Linq를 활용한 간단한 방법 
 // public class Solution {
 //     public string[] solution(string[] todo_list, bool[] finished) {
 //         return todo_list.Where((v,i) => !finished[i]).ToArray();
