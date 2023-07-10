@@ -10,7 +10,7 @@ public class Solution {
     }
 }
 
-// Linq를 이용한 더 간단한 방법
+// Linq를 이용한 더 간단한 방법!
 // public class Solution {
 //     public string[] solution(string[] strArr) {
 //         return strArr.Where(x => !x.Contains("ad")).ToArray();
