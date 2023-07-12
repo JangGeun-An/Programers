@@ -5,7 +5,7 @@ function solution(num_list, n) {
     return answer;
 }
 
-// 간단한 방법, splice를 활용
+// 간단한 방법, splice를 활용!
 // function solution(num_list, n) {
 //     num_list.push(...num_list.splice(0, n));
 //     return num_list
